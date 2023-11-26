@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RaahulRaj25
+- 👋 Hi, I’m @Rahul Raj Singh
 - 👀 I’m interested in Web Designing
 - 🌱 I’m currently learning Full Stack Web Development
 - 💞️ I’m looking to collaborate on ...
